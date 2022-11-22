@@ -1,0 +1,29 @@
+table {
+    border-style: double;
+}
+
+caption {
+    font-size: 18px;
+    color: grey;
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
+
+thead {
+    background-color: pink;
+    color: white;
+}
+
+tbody {
+    background-color: yellow;
+    text-align: center;
+}
+
+tfoot {
+    background-color: skyblue;
+    color: blue;
+}
