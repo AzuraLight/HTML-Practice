@@ -1,4 +1,6 @@
 # HTML-Practice
+![연습문제3](https://user-images.githubusercontent.com/113497486/203185816-bc5506f9-9a7d-456e-b9ef-044afa0f3d4c.PNG)
+
 테이블 위에 작성되는 IT아카데미는 캡션을 사용하여 작성하였고,
 나머지 부분은 thead / tbody / tfoot 을 나누어 작성하였다.
 
